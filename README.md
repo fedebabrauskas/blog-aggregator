@@ -1,1 +1,1 @@
-# gator
+# blog-aggregator
